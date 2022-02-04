@@ -5,7 +5,7 @@ cvs.height = innerHeight;
 const numberOfRings = 4;
 const ringRadiusOffset = 20;
 const ringRadius = 400;
-const waveOffset = 10;
+const waveOffset = 15;
 const colors = ["#B9c4c9", "#52958B", "#128277", "#004D47"];
 let startAngle = 0;
 
